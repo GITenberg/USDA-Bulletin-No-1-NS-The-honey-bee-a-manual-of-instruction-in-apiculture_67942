@@ -1,0 +1,28 @@
+_repo: USDA-Bulletin-No-1-NS-The-honey-bee-a-manual-of-instruction-in-apiculture_67942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benton, Frank
+    birthdate: 1853
+    deathdate: 1921
+    gutenberg_agent_id: '40232'
+    url: http://www.gutenberg.org/2009/agents/40232
+description: ''
+gutenberg_issued: '2022-04-27'
+identifiers:
+  gutenberg: '67942'
+language: en
+pgterms:marc904: https://archive.org/details/honeybeemanualof01bent_1
+pgterms:marc905: 20220405090250benton
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Tom Cosmas produced from materials generously made available at The
+  Internet Archive and placed in the Public Domain.
+publication_note: United States :U.S. Government Printing Office,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'USDA, Bulletin No. 1. (N.S.) The honey bee: a manual of instruction in apiculture'
+url: http://www.gutenberg.org/ebooks/67942
