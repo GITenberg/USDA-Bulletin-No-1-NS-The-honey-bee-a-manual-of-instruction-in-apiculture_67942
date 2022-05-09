@@ -1,5 +1,8 @@
 _repo: USDA-Bulletin-No-1-NS-The-honey-bee-a-manual-of-instruction-in-apiculture_67942
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67942-h/images/cover.png
 creator:
   author:
     agent_name: Benton, Frank
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '40232'
     url: http://www.gutenberg.org/2009/agents/40232
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67942#USDA-Bulletin-No-1-NS-The-honey-bee-a-manual-of-instruction-in-apiculture
 gutenberg_issued: '2022-04-27'
 identifiers:
   gutenberg: '67942'
